@@ -1,1 +1,13 @@
+.tall-section {
+    background-color: #f7f7f7; /* Set background color for the tall section */
+    padding: 20px;
+}
+/* Style the dropdown menu */
+.dropdown-menu {
+    background-color: #fff; /* Set background color for dropdown menu */
+    width: 100%;
+}
+.page-heading {
+    margin-top: 50px; /* Add some top margin for spacing */
+}
 
